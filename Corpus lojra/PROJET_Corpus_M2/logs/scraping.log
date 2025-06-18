@@ -1,0 +1,181 @@
+2025-02-16 00:41:27,763 - INFO - Données sauvegardées dans donnees/raw/articles/articles.json
+2025-02-16 00:41:30,682 - INFO - Données sauvegardées dans donnees/raw/game_scripts/dialogues.txt
+2025-02-16 00:42:30,273 - INFO - Données sauvegardées dans donnees/raw/articles/articles.json
+2025-02-16 00:42:32,710 - INFO - Données sauvegardées dans donnees/raw/game_scripts/dialogues.txt
+2025-02-16 01:12:38,754 - INFO - Données sauvegardées dans donnees/raw/articles/articles.json
+2025-02-16 01:12:41,873 - INFO - Données sauvegardées dans donnees/raw/game_scripts/dialogues.txt
+2025-02-16 01:19:59,279 - INFO - Données sauvegardées dans donnees/raw/articles/articles.json
+2025-02-16 01:20:02,084 - INFO - Données sauvegardées dans donnees/raw/game_scripts/dialogues.txt
+2025-02-16 01:24:32,115 - INFO - Données sauvegardées dans donnees/raw/reddit/leagueoflegends.json
+2025-02-16 01:29:17,458 - INFO - Données sauvegardées dans donnees/raw/articles/articles.json
+2025-02-16 01:32:10,104 - INFO - Données sauvegardées dans donnees/raw/articles/articles.json
+2025-02-16 01:36:05,611 - INFO - Données sauvegardées dans donnees/raw/articles/articles.json
+2025-02-16 01:38:46,065 - INFO - Données sauvegardées dans donnees/raw/articles/articles.json
+2025-02-16 02:25:26,731 - INFO - Données sauvegardées dans donnees/raw/articles/articles.json
+2025-02-16 02:31:16,038 - INFO - Données sauvegardées dans donnees/raw/articles/articles.json
+2025-02-16 02:34:18,499 - INFO - Données sauvegardées dans donnees/raw/articles/articles.json
+2025-02-16 02:38:47,838 - INFO - Données sauvegardées dans donnees/raw/articles/articles.json
+2025-02-16 02:45:14,502 - INFO - Données sauvegardées dans donnees/raw/articles/articles.json
+2025-02-16 02:52:26,398 - INFO - Données sauvegardées dans donnees/raw/articles/articles.json
+2025-02-16 03:10:07,762 - INFO - Données sauvegardées dans donnees/raw/articles/articles.json
+2025-02-16 03:26:17,622 - INFO - Données sauvegardées dans donnees/raw/articles/articles.json
+2025-02-16 03:36:16,204 - INFO - Données sauvegardées dans donnees/raw/articles/articles.json
+2025-02-16 03:43:46,845 - WARNING - Retrying due to ConnectionError(MaxRetryError('HTTPSConnectionPool(host=\'www.reddit.com\', port=443): Max retries exceeded with url: /api/v1/access_token (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000021B89994910>: Failed to resolve \'www.reddit.com\' ([Errno 11001] getaddrinfo failed)"))')) status: GET https://oauth.reddit.com/r/leagueoflegends/hot
+2025-02-16 03:43:47,975 - WARNING - Retrying due to ConnectionError(MaxRetryError('HTTPSConnectionPool(host=\'www.reddit.com\', port=443): Max retries exceeded with url: /api/v1/access_token (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000021B899951D0>: Failed to resolve \'www.reddit.com\' ([Errno 11001] getaddrinfo failed)"))')) status: GET https://oauth.reddit.com/r/leagueoflegends/hot
+2025-02-16 03:44:34,788 - INFO - Données sauvegardées dans donnees/raw/reddit/leagueoflegends.json
+2025-02-16 03:58:07,933 - INFO - Données sauvegardées dans donnees/raw/game_scripts/dialogues.txt
+2025-02-16 04:03:44,203 - INFO - Données sauvegardées dans donnees/raw/game_scripts/dialogues.txt
+2025-02-16 04:07:02,398 - INFO - Données sauvegardées dans donnees/raw/game_scripts/dialogues.txt
+2025-02-16 04:08:44,732 - INFO - Données sauvegardées dans donnees/raw/game_scripts/dialogues.txt
+2025-02-16 04:14:08,727 - INFO - Données sauvegardées dans donnees/raw/game_scripts/dialogues.txt
+2025-02-17 01:13:52,629 - INFO - Données sauvegardées dans donnees/raw/twitter/league of legends.json
+2025-02-17 01:34:58,125 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-17 01:35:00,211 - INFO - Données sauvegardées dans donnees/raw/youtube/BuMBmK5uksg_fr.txt
+2025-02-17 01:52:33,364 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-17 01:52:34,986 - INFO - Données sauvegardées dans donnees/raw/youtube/BuMBmK5uksg_fr.txt
+2025-02-17 01:52:55,105 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-17 01:52:57,148 - INFO - Données sauvegardées dans donnees/raw/youtube/BuMBmK5uksg_en.txt
+2025-02-17 01:53:23,353 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-17 01:53:25,911 - INFO - Données sauvegardées dans donnees/raw/youtube/BuMBmK5uksg_en.txt
+2025-02-17 01:53:30,919 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-17 01:53:32,740 - INFO - Données sauvegardées dans donnees/raw/youtube/BuMBmK5uksg_fr.txt
+2025-02-17 01:53:37,750 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-17 01:53:39,499 - INFO - Données sauvegardées dans donnees/raw/youtube/BuMBmK5uksg_es.txt
+2025-02-17 01:53:45,219 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-17 01:53:47,364 - INFO - Données sauvegardées dans donnees/raw/youtube/BuMBmK5uksg_en.txt
+2025-02-17 02:16:31,377 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-17 02:16:33,295 - INFO - Données sauvegardées dans donnees/raw/youtube/BuMBmK5uksg_fr.txt
+2025-02-17 02:17:22,263 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-17 02:17:24,871 - INFO - Données sauvegardées dans donnees/raw/youtube/EJzxOb_guHE_fr.txt
+2025-02-17 02:17:29,049 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-17 02:17:31,295 - INFO - Données sauvegardées dans donnees/raw/youtube/EJzxOb_guHE_en.txt
+2025-02-17 02:29:44,192 - INFO - Données sauvegardées dans donnees/raw/youtube/EJzxOb_guHE_fr.txt
+2025-02-17 02:36:31,261 - INFO - Données sauvegardées dans donnees/raw/articles/articles.json
+2025-02-17 02:38:02,031 - INFO - Données sauvegardées dans donnees/raw/youtube/EJzxOb_guHE_fr.txt
+2025-02-17 02:54:51,978 - INFO - "GET /?state=pabwXHQLGknoVJYKZeKjgggrWJqkfS&code=4/0ASVgi3IN__P3IRUcritfBdOF8ig-L9wLNfO67tZjxbtq1_EvZqbGnxUH9mO9TvKT6F8HUw&scope=https://www.googleapis.com/auth/youtube.force-ssl HTTP/1.1" 200 65
+2025-02-17 02:54:52,921 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-17 02:54:56,712 - INFO - Données sauvegardées dans donnees/raw/youtube/EJzxOb_guHE_fr.txt
+2025-02-17 02:55:30,410 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-17 02:55:32,921 - WARNING - Encountered 403 Forbidden with reason "forbidden"
+2025-02-17 02:55:32,921 - INFO - Données sauvegardées dans donnees/raw/youtube/EJzxOb_guHE_en.txt
+2025-02-17 02:56:09,307 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-17 02:56:11,466 - WARNING - Encountered 403 Forbidden with reason "forbidden"
+2025-02-17 02:56:11,467 - INFO - Données sauvegardées dans donnees/raw/youtube/EJzxOb_guHE_en.txt
+2025-02-17 02:56:25,484 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-17 02:56:28,553 - WARNING - Encountered 403 Forbidden with reason "forbidden"
+2025-02-17 02:56:28,554 - INFO - Données sauvegardées dans donnees/raw/youtube/EJzxOb_guHE_en.txt
+2025-02-17 02:56:49,148 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-17 02:56:51,261 - WARNING - Encountered 403 Forbidden with reason "forbidden"
+2025-02-17 02:56:51,262 - INFO - Données sauvegardées dans donnees/raw/youtube/EJzxOb_guHE_en.txt
+2025-02-17 03:04:46,722 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-17 03:04:48,627 - INFO - Données sauvegardées dans donnees/raw/youtube/EJzxOb_guHE_fr.txt
+2025-02-17 03:04:58,054 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-17 03:05:00,632 - WARNING - Encountered 403 Forbidden with reason "forbidden"
+2025-02-17 03:05:02,481 - INFO - Données sauvegardées dans donnees/raw/youtube/EJzxOb_guHE_en.txt
+2025-02-17 03:06:16,690 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-17 03:06:19,181 - WARNING - Encountered 403 Forbidden with reason "forbidden"
+2025-02-17 03:06:20,893 - INFO - Données sauvegardées dans donnees/raw/youtube/nsClitREZqg_en.txt
+2025-02-17 03:07:21,333 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-17 03:07:23,172 - INFO - Données sauvegardées dans donnees/raw/youtube/nsClitREZqg_fr.txt
+2025-02-17 03:07:28,001 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-17 03:07:30,157 - WARNING - Encountered 403 Forbidden with reason "forbidden"
+2025-02-17 03:07:31,946 - INFO - Données sauvegardées dans donnees/raw/youtube/nsClitREZqg_en.txt
+2025-02-17 03:15:22,502 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-17 03:15:22,999 - INFO - Données sauvegardées dans donnees/raw/youtube/nsClitREZqg_en.txt
+2025-02-17 03:15:50,374 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-17 03:15:52,844 - WARNING - Encountered 403 Forbidden with reason "forbidden"
+2025-02-17 03:15:55,778 - INFO - Données sauvegardées dans donnees/raw/youtube/nsClitREZqg_en.txt
+2025-02-17 03:17:10,963 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-17 03:17:24,848 - INFO - Données sauvegardées dans donnees/raw/youtube/nsClitREZqg_fr.txt
+2025-02-17 03:17:30,334 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-17 03:17:41,166 - WARNING - Encountered 403 Forbidden with reason "forbidden"
+2025-02-17 03:17:58,525 - INFO - Données sauvegardées dans donnees/raw/youtube/nsClitREZqg_en.txt
+2025-02-17 03:28:33,609 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-17 03:28:40,220 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-17 03:28:42,658 - WARNING - Encountered 403 Forbidden with reason "forbidden"
+2025-02-17 03:31:39,773 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-17 03:31:49,167 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-17 03:31:59,992 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-17 03:32:43,955 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-17 03:32:52,200 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-17 03:33:00,088 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-17 03:33:06,923 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-17 03:33:51,555 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-17 03:33:55,526 - WARNING - Encountered 403 Forbidden with reason "forbidden"
+2025-02-17 03:34:47,411 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-17 03:34:59,649 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-17 03:35:08,205 - WARNING - Encountered 403 Forbidden with reason "forbidden"
+2025-02-17 06:12:42,687 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-17 06:12:45,362 - WARNING - Encountered 403 Forbidden with reason "forbidden"
+2025-02-17 06:12:47,113 - INFO - Données sauvegardées dans donnees/raw/youtube/n_dZEx4amw4_fr.txt
+2025-02-17 06:22:56,990 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-17 06:22:59,767 - WARNING - Encountered 403 Forbidden with reason "forbidden"
+2025-02-17 06:23:01,918 - INFO - Données sauvegardées dans donnees/raw/youtube/n_dZEx4amw4_fr.json
+2025-02-17 06:36:50,299 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-17 06:36:55,659 - WARNING - Encountered 403 Forbidden with reason "forbidden"
+2025-02-17 06:37:19,604 - INFO - Données sauvegardées dans donnees/raw/youtube/n_dZEx4amw4_fr.json
+2025-02-17 06:43:47,395 - INFO - Données sauvegardées dans donnees/raw/articles/articles.json
+2025-02-17 06:46:00,107 - INFO - Données sauvegardées dans donnees/raw/articles/articles.json
+2025-02-17 06:48:00,305 - INFO - Données sauvegardées dans donnees/raw/articles/articles.json
+2025-02-17 06:56:35,826 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPConnectionPool(host='localhost', port=10924): Read timed out. (read timeout=120)")': /session/e07574ed17b67c82bfe1572c58d4152e
+2025-02-17 06:58:57,917 - INFO - Données sauvegardées dans donnees/raw/reddit/leagueoflegends.json
+2025-02-17 08:09:01,068 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-17 08:09:08,799 - WARNING - Encountered 403 Forbidden with reason "forbidden"
+2025-02-17 08:09:12,021 - INFO - Données sauvegardées dans donnees/raw/youtube/n_dZEx4amw4_fr.json
+2025-02-17 08:09:55,677 - INFO - Données sauvegardées dans donnees/raw/twitter/#leagueoflegends.json
+2025-02-17 11:31:45,104 - INFO - Données sauvegardées dans donnees/raw/articles/articles.json
+2025-02-17 11:37:55,383 - INFO - Données sauvegardées dans donnees/raw/articles/articles.json
+2025-02-17 14:09:19,207 - INFO - Données sauvegardées dans donnees/raw/articles/articles.json
+2025-02-17 16:23:07,415 - INFO - Données sauvegardées dans donnees/raw/articles/articles.json
+2025-02-17 16:25:32,360 - INFO - Données sauvegardées dans donnees/raw/reddit/leagueoflegends.json
+2025-02-17 16:35:45,113 - INFO - Données sauvegardées dans donnees/raw/game_scripts/dialogues.txt
+2025-02-17 16:39:01,252 - INFO - Données sauvegardées dans donnees/raw/game_scripts/dialogues.txt
+2025-02-17 16:49:36,291 - INFO - Données sauvegardées dans donnees/raw/game_scripts/dialogues.txt
+2025-02-17 16:55:22,921 - INFO - Données sauvegardées dans donnees/raw/game_scripts/dialogues.txt
+2025-02-17 16:57:48,347 - INFO - Données sauvegardées dans donnees/raw/game_scripts/dialogues.txt
+2025-02-17 16:59:44,579 - INFO - Données sauvegardées dans donnees/raw/game_scripts/dialogues.json
+2025-02-17 17:01:53,319 - INFO - Données sauvegardées dans donnees/raw/articles/articles.json
+2025-02-17 17:02:57,641 - INFO - Données sauvegardées dans donnees/raw/game_scripts/dialogues.json
+2025-02-18 17:44:51,699 - ERROR - Erreur lors de la sauvegarde des données : 'str' object has no attribute 'keys'
+2025-02-18 17:45:52,569 - ERROR - Erreur lors de la sauvegarde des données : 'str' object has no attribute 'keys'
+2025-02-18 17:46:49,956 - ERROR - Erreur lors de la sauvegarde des données : 'str' object has no attribute 'keys'
+2025-02-18 19:40:53,867 - INFO - Données sauvegardées dans donnees/corpus_gaming_frequencies.txt
+2025-02-18 19:41:24,465 - INFO - Données sauvegardées dans donnees/corpus_gaming_frequencies.txt
+2025-02-18 19:41:47,089 - INFO - Données sauvegardées dans donnees/corpus_gaming_frequencies.txt
+2025-02-18 19:42:16,336 - INFO - Données sauvegardées dans donnees/corpus_extracted_patterns_de.txt
+2025-02-18 19:42:51,144 - INFO - Données sauvegardées dans donnees/corpus_extracted_patterns_strange.txt
+2025-02-18 19:43:10,585 - INFO - Données sauvegardées dans donnees/corpus_extracted_patterns_strange.txt
+2025-02-18 19:43:21,561 - INFO - Données sauvegardées dans donnees/corpus_extracted_patterns_strange.txt
+2025-02-18 19:43:45,940 - INFO - Données sauvegardées dans donnees/corpus_extracted_patterns_ petit prix .txt
+2025-02-18 19:44:35,580 - INFO - Données sauvegardées dans donnees/corpus_extracted_patterns_lheure0915.txt
+2025-02-18 19:59:23,889 - INFO - Données sauvegardées dans donnees/corpus_gaming_frequencies.txt
+2025-02-18 19:59:34,796 - INFO - Données sauvegardées dans donnees/corpus_gaming_frequencies.txt
+2025-02-18 19:59:46,325 - INFO - Données sauvegardées dans donnees/corpus_gaming_frequencies.txt
+2025-02-18 20:03:48,308 - ERROR - Erreur lors de la sauvegarde des données : 'str' object has no attribute 'keys'
+2025-02-18 20:04:31,290 - ERROR - Erreur lors de la sauvegarde des données : 'str' object has no attribute 'keys'
+2025-02-18 20:05:49,465 - ERROR - Erreur lors de la sauvegarde des données : 'str' object has no attribute 'keys'
+2025-02-18 20:05:53,674 - ERROR - Erreur lors de la sauvegarde des données : 'str' object has no attribute 'keys'
+2025-02-18 20:21:24,335 - INFO - Données sauvegardées dans donnees/corpus_gaming_frequencies_filtered.txt
+2025-02-18 20:22:26,249 - INFO - Données sauvegardées dans donnees/corpus_gaming_frequencies_filtered.txt
+2025-02-18 20:23:19,980 - INFO - Données sauvegardées dans donnees/corpus_gaming_frequencies_filtered.txt
+2025-02-18 20:23:26,219 - INFO - Données sauvegardées dans donnees/corpus_gaming_frequencies_filtered.txt
+2025-02-18 20:23:31,265 - INFO - Données sauvegardées dans donnees/corpus_gaming_frequencies_filtered.txt
+2025-02-18 20:23:38,405 - INFO - Données sauvegardées dans donnees/corpus_gaming_frequencies_filtered.txt
+2025-02-18 20:23:50,269 - INFO - Données sauvegardées dans donnees/corpus_gaming_frequencies_filtered.txt
+2025-02-18 20:23:55,544 - INFO - Données sauvegardées dans donnees/corpus_gaming_frequencies_filtered.txt
+2025-02-18 20:24:55,774 - ERROR - Erreur lors de la sauvegarde des données : 'str' object has no attribute 'keys'
+2025-02-18 20:25:02,039 - ERROR - Erreur lors de la sauvegarde des données : 'str' object has no attribute 'keys'
+2025-02-18 20:32:06,676 - INFO - Données sauvegardées dans donnees/corpus_gaming_frequencies_filtered.txt
+2025-02-18 20:32:11,429 - INFO - Données sauvegardées dans donnees/corpus_gaming_frequencies_filtered.txt
+2025-03-06 13:17:18,381 - INFO - Données sauvegardées dans donnees/raw/articles/articles.json
+2025-03-06 13:17:48,416 - INFO - Données sauvegardées dans donnees/raw/game_scripts/dialogues.json
+2025-03-06 13:18:14,288 - INFO - Données sauvegardées dans donnees/raw/reddit/leagueoflegends.json
+2025-03-06 13:18:57,846 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-03-06 13:18:59,337 - WARNING - Encountered 403 Forbidden with reason "forbidden"
+2025-03-06 13:19:00,064 - INFO - Données sauvegardées dans donnees/raw/youtube/n_dZEx4amw4_fr.json
+2025-03-12 11:38:27,974 - INFO - Données sauvegardées dans donnees/raw/reddit/leagueoflegends.json
+2025-03-12 11:38:30,558 - INFO - Données sauvegardées dans donnees/raw/reddit/leagueoflegends.json
+2025-03-12 11:45:38,721 - INFO - Données sauvegardées dans donnees/raw/articles/articles.json
+2025-03-12 11:49:12,728 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-03-12 11:49:14,825 - WARNING - Encountered 403 Forbidden with reason "forbidden"
+2025-03-12 11:49:16,056 - INFO - Données sauvegardées dans donnees/raw/youtube/n_dZEx4amw4_fr.json
